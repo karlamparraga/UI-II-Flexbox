@@ -66,7 +66,7 @@ h1, h2, h3, h4, h5 {
 /* Copy and paste your work from yesterday here and start to refactor into flexbox */
 
 .container {
-	border: 3px solid red;
+	/* border: 3px solid red; */
 	width: 1010px;
 	margin: 0 auto;
 	padding-left: 60px;
@@ -162,7 +162,7 @@ button {
 
 .items-list {
     /* padding-top: 10px; */
-    margin-top: 25px;
+    margin-top: 20px;
     list-style-type: square;
     /* border: 3px solid blue; */
     padding-left: 20px;
